@@ -10,7 +10,7 @@ export const TableTransactions = styled.table`
 `;
 export const TableHead = styled.tr`
   height: 60px;
-  background-color: teal;
+  background-color: turquoise;
 `;
 export const TableHeadTitle = styled.th`
   color: #ffffff;
