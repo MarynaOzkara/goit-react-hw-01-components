@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+// import PropTypes from 'prop-types';
 import {ListOfFriends, FriendItem, Avatar, Name, Status} from './FriendList.styled';
 
 const FriendList = ({friends}) => (
